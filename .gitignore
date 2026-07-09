@@ -1,0 +1,23 @@
+# Build folders
+**/target/
+
+# Python
+**/venv/
+**/.venv/
+**/__pycache__/
+*.pyc
+
+# Node
+**/node_modules/
+
+# Ignore local tools
+tools/
+
+# Ignore uploaded/generated files
+backend/uploads/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
