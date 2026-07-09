@@ -25,6 +25,11 @@ The platform enables students to apply for internships using verified academic c
 * Notifications
 
 ---
+## Additional Resources
+
+📁 [Documents](https://drive.google.com/drive/folders/1QH6RiZmEKUU4ad_rdl3nmdmpEMP4J7Us?usp=sharing)
+
+---
 
 ## Recruiter Module
 
